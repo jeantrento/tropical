@@ -1,7 +1,7 @@
 f@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 :root {
-    --laranja-claro: #ffffff00;
+    --laranja-claro: #b40000;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #000000;
+    background-color: #00000000;
 }
 
 
